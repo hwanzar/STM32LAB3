@@ -1,0 +1,2 @@
+fsm.c:13:6:fsm_auto_run	8	static
+fsm.c:137:6:fsm_mod_run	8	static

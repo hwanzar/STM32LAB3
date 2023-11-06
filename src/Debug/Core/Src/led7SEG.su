@@ -1,0 +1,5 @@
+led7SEG.c:5:6:updateBuffer	16	static
+led7SEG.c:12:6:reset7SEG	8	static
+led7SEG.c:16:6:display7SEG	16	static
+led7SEG.c:60:6:switch7SEG	16	static
+led7SEG.c:98:6:auto_switch_7SEG	8	static

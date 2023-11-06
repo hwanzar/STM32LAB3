@@ -1,0 +1,8 @@
+led_control.c:11:6:onRed1	8	static
+led_control.c:17:6:onGreen1	8	static
+led_control.c:23:6:onYellow1	8	static
+led_control.c:29:6:onRed2	8	static
+led_control.c:35:6:onGreen2	8	static
+led_control.c:40:6:onYellow2	8	static
+led_control.c:45:6:resetLight	8	static
+led_control.c:49:6:blinkLED	16	static
